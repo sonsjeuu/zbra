@@ -1,0 +1,4 @@
+pysocks
+rich
+httpx
+requests

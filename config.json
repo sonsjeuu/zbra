@@ -1,0 +1,26 @@
+{
+    "info": {
+        "name": "Zbraxs-Tools",
+        "version": "1.0",
+        "admin": "TranXuanSon"
+    },
+    "pay": {
+        "name": "Trần Xuân Sơn",
+        "stk": "00",
+        "bank_name": "MB-Bank",
+        "noi_dung": "Nội Dung Là ID Telegarm Của Bạn Và Lựa Chọn"
+    },
+    "main": {
+        "token_Telegram": "6140030756:AAGbqvq6KWufs66RMqhUnbi_SUbmvEa5jXs",
+        "logo": "𝙕𝙗𝙧𝙖𝙭𝙨 - 𝙏𝙤𝙤𝙡𝙨 𝙗𝙮 𝙏𝙧𝙖𝙣𝙓𝙪𝙖𝙣𝙎𝙤𝙣",
+        "banner": "𝙕𝙗𝙧𝙖𝙭𝙨 - 𝙏𝙤𝙤𝙡𝙨 𝙗𝙮 𝙏𝙧𝙖𝙣𝙓𝙪𝙖𝙣𝙎𝙤𝙣\n\n  tiktok: tiktok.com/@_zbraxs_\n  telegram: t.me/zbraxs_tools_bot\n\n_____________________________________\n\n",
+        "key_command": "!",
+        "command": "  < LỆNH >\n\n  [ ⛄ ] /pay\n\n  [ ⛄ ] /help\n\n  [ ⛄ ] /setting\n_____________________________________\n\n  < CHỨC NĂNG >\n\n  [ 🍍 ] !spam sđt so-lan\n\n  [ 🍍 ] !ddos HTTP1 url time\n\n  [ 🍍 ] !ddos HTTP2 url time\n\n  [ 🍍 ] !ddos YOLANDA url time\n\n  [ 🍍 ] !ddos STORM url time\n\n  [ 🍍 ] !ddos NULL url time thread\n_____________________________________\n\n  < CHÚ Ý >\n\n  [ ☠ ] thread: 5 -> 10\n_____________________________________",
+        "setting": "  < CÀI ĐẶT >\n\n  [ ⏳ ] /delay_ping so-giay\n_____________________________________",
+        "attack_time_limit_normal": "120",
+        "attack_number_limit_normal": "120",
+        "attack_time_limit_premium": "99999999",
+        "attack_number_limit_premium": "99999999",
+        "delay_ping": "30"
+    }
+}
